@@ -21,7 +21,7 @@ layout: default
 
 [How to make better graphs ](https://www.youtube.com/watch?v=H5awS-QBPHk)
 <iframe
-  src="https://www.youtube.com/embed/=H5awS-QBPHk"
+  src="https://www.youtube.com/embed/H5awS-QBPHk"
   width="560" 
   height="315">
 </iframe>
