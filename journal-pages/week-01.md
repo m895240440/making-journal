@@ -14,10 +14,18 @@ layout: default
 
 *Use the format below to embed images from your assets folder:*
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+![Alt text](../assets/week-01/img1.jpg)`
+*Cute data visualization*
 
 *The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+
+[How to make better graphs ](https://www.youtube.com/watch?v=H5awS-QBPHk)
+<iframe
+  src="https://www.youtube.com/watch?v=H5awS-QBPHk"
+  width="560" 
+  height="315">
+</iframe>
+
 
 ## AI Usage Statement
 
